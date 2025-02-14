@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I specialize in **data processing, MLOps, NLP, data science, and automation**. My projects range from **financial and technical analysis** to **machine learning** and **natural language processing**.
+Alexandre Sotov specializes in **data processing, MLOps, NLP, data science, and automation**. My projects range from **financial and technical analysis** to **machine learning** and **natural language processing**.
 
 For web development, I work with **Flask and Hugo** and have **DevOps experience** in web app/content deployment, particularly using **Firebase and Google Colab**. I code in **Python and JavaScript**. 
+
+Published researcher and author at Oxford University Press, Benjamin's and Mladinska Knjiga.
 
 ## Problems I Solve  
 
