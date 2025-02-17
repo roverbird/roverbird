@@ -27,7 +27,7 @@ Published researcher and author at Oxford University Press, Benjamin's and Mladi
 - **Workflow Optimization**: Get a full evaluation of your PMS workflow with actionable recommendations.  
 
 ### **For Retail**  
-- **Payment System Integration**: Seamless integration of **SumUp, PayPal, Stripe**, and other payment gateways.  
+- **Payment System Integration**: integration of **SumUp, PayPal, Stripe**, and other payment gateways.  
 
 ### **Other**  
 - **Financial & Cryptocurrency Analysis**: Experience with AI-driven **trading models and quantitative finance**.  
