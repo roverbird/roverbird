@@ -21,7 +21,7 @@ Published researcher and author at Oxford University Press, Benjamin's and Mladi
 ### **For Small Hotels & Short-Term Rentals**  
 - **Custom Booking App**: A cost-effective alternative to PMS systems like Protel and Opera – self-hosted or on my servers.  
 - **Platform Integration**: Sync bookings across **Booking.com, Airbnb, Expedia**, and more to prevent overbookings.  
-- **Crypto Payment Integration**: Accept **cryptocurrency payments** for rentals – worked with Dtravel to implement this for clients.  
+- **Crypto Payment Integration**: Accept **cryptocurrency payments** for rentals – worked with [Dtravel](https://github.com/Dtravel) to implement this for clients.  
 - **Cost Savings**: Reduce reliance on expensive PMS providers while ensuring **dedicated technical support**.  
 - **Workflow Optimization**: Get a full evaluation of your PMS workflow with actionable recommendations.  
 
