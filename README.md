@@ -35,7 +35,7 @@ Published researcher and author at Oxford University Press, Benjamin's and Mladi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roverbird&layout=compact&theme=tokyonight)
 
-![Tech Stack](https://skillicons.dev/icons?i=python,javascript,r,flask,hugo,html,css,git,linux,freeusd)
+![Tech Stack](https://skillicons.dev/icons?i=python,javascript,r,flask,html,css,git,linux,debian,bsd,bash,vim,nginx,firebase)
 
 ## Business Model  
 
