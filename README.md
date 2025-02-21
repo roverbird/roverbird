@@ -30,8 +30,10 @@ Published researcher and author at Oxford University Press, Benjamins and Mladin
 - **Payment System Integration**: integration of **SumUp, PayPal, Stripe**, and other payment gateways.  
 
 ### **Other**  
-- **Financial & Cryptocurrency Analysis**: Experience with AI-driven **trading models and quantitative finance**.  
-  🔗 [Repo: numerai-crypto-helper](https://github.com/roverbird/numerai-crypto-helper)  
+- **Financial & Cryptocurrency Analysis**: Experience with AI-driven trading models and quantitative finance.  
+  🔗 [Repo: numerai-crypto-helper](https://github.com/roverbird/numerai-crypto-helper)
+- **Intuitive Trader Game**: Test your intution on real financial data!
+  🔗 [Repo: intuitive-trader-game](https://github.com/roverbird/intuitive-trader-game) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roverbird&layout=compact&theme=tokyonight)
 
