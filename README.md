@@ -35,6 +35,7 @@ Published researcher and author at Oxford University Press, Benjamins and Mladin
 - **Intuitive Trader Game**: Test your intution on real financial data!
   🔗 [Repo: intuitive-trader-game](https://github.com/roverbird/intuitive-trader-game) 
 
+### **Skills and Stack**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roverbird&layout=compact&theme=tokyonight)
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,javascript,r,flask,html,css,git,linux,debian,bsd,bash,vim,nginx,firebase)
