@@ -37,6 +37,8 @@ Published researcher and author at Oxford University Press, Benjamins and Mladin
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,javascript,r,flask,html,css,git,linux,debian,bsd,bash,vim,nginx,firebase)
 
+**Summary:** I am interested in data science, automation, and DevOps. I am comfortable with server-side development and statistical computing, but I also did some front-end UI/UX work. With my Linux and Nginx experience I have knowledge of deployment and server management,and my R skills indicate involvement in data-driven tasks.
+
 ## Business Model  
 
 ✅ I have worked with **international consultancies and large organizations**, often as the sole point of contact responsible for managing and improving their online presence.  
