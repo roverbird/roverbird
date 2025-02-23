@@ -14,7 +14,8 @@ Published researcher and author at Oxford University Press, Benjamins and Mladin
 - **Web Automation & Static Site Generation**: Optimizing content management workflows and developing tailored dashboards for content managers.  
   🔗 [Repo: superdash](https://github.com/roverbird/superdash)  
 - **Automation for Data Extraction & Processing**: Google Sheets API, BigQuery, and classification models in Python.  
-- **Corpus Linguistics & NLP**: Semantic analysis, keyword extraction, classification tasks, and AI-generated content detection.  
+- **Corpus Linguistics & NLP**: Semantic analysis, [keyword extraction](https://textvisualization.app/free-online-keyword-extractor/), classification tasks, and [AI-generated content detection](https://textvisualization.app/chatgpt-detector/).
+  🔗 [Repo: nbd-keyword-extractor](https://github.com/roverbird/nbd-keyword-extractor)
   🔗 [Repo: corpus_utils](https://github.com/roverbird/corpus_utils)  
   🔗 [Repo: chatgpt_corpus](https://github.com/roverbird/chatgpt_corpus)  
 
