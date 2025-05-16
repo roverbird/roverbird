@@ -22,26 +22,32 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
 ### **For Small Hotels & Short-Term Rentals**  
 - **Custom Booking App**: A cost-effective alternative to PMS systems like Protel and Opera – self-hosted or on my servers.  
 - **Platform Integration**: Sync bookings across **Booking.com, Airbnb, Expedia**, and more to prevent overbookings.  
-- **Crypto Payment Integration**: Accept **cryptocurrency payments** for rentals – worked with [Dtravel](https://github.com/Dtravel) to implement this for clients.
+- **Crypto Payment Integration**: Accept **cryptocurrency payments** for rentals – worked with [Dtravel](https://github.com/Dtravel)
   🔗 [Repo: dtravel-integration](https://github.com/roverbird/dtravel-integration/)
 - **Cost Savings**: Reduce reliance on expensive PMS providers while ensuring **dedicated technical support**.  
 - **Workflow Optimization**: Get a full evaluation of your PMS workflow with actionable recommendations.  
 
-### **For Retail**  
+### **For Retail and Accounting**  
+- **UPNQR": generate payment qrcode for invoices (Slovenia)
+  🔗 [Repo: upnqr](https://github.com/roverbird/upnqr)
+- **Sepa-pain-js": SEPA PAIN XML Viewer and Generator is a web app for corporate users and finance teams who need to work with SEPA payment files based on ISO 20022 (pain.001.001.03)
+  🔗 [Repo: sepa-pain-js](https://github.com/roverbird/sepa-pain-js) 
 - **Payment System Integration**: integration of **SumUp, PayPal, Stripe**, and other payment gateways.  
 
 ### **Other**  
-- **Financial & Cryptocurrency Analysis**: Experience with AI-driven trading models and quantitative finance.  
+- **Financial & Cryptocurrency Analysis**: Experiments with AI-driven trading models and quantitative finance.  
   🔗 [Repo: numerai-crypto-helper](https://github.com/roverbird/numerai-crypto-helper)
 - **Intuitive Trader Game**: Test your intution on real financial data!
-  🔗 [Repo: intuitive-trader-game](https://github.com/roverbird/intuitive-trader-game) 
+  🔗 [Repo: intuitive-trader-game](https://github.com/roverbird/intuitive-trader-game)
+- **[Kolam.fun](https://kolam.fun)** is a javascript interactive art toy inspired by the South Indian tradition of Kolam **
+  🔗 [Repo: kolam-game](https://github.com/roverbird/kolam-game)
 
 ### **Skills and Stack**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roverbird&layout=compact&theme=tokyonight)
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,javascript,r,flask,html,css,git,linux,debian,bsd,bash,vim,nginx,firebase)
 
-**Summary:** I am interested in data science, automation, and DevOps. I am comfortable with server-side development and statistical computing, but I also did some front-end UI/UX work. With my Linux and Nginx experience I have knowledge of deployment and server management,and my R skills indicate involvement in data-driven tasks.
+**Summary:** I am interested in data science, automation, and DevOps. I am comfortable with server-side development and back-end in python, but I also do front-end UI/UX work. For web, I prefer Bulma CSS, static generators, and vanilla js. With my Linux and Nginx experience I have knowledge of deployment and server management, and my R skills indicate involvement in data-driven tasks.
 
 ## Business Model  
 
