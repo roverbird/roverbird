@@ -28,9 +28,9 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
 - **Workflow Optimization**: Get a full evaluation of your PMS workflow with actionable recommendations.  
 
 ### **For Retail and Accounting**  
-- **UPNQR": generate payment qrcode for invoices (Slovenia)
+- **UPNQR**: generate payment qrcode for invoices (Slovenia)
   🔗 [Repo: upnqr](https://github.com/roverbird/upnqr)
-- **Sepa-pain-js": SEPA PAIN XML Viewer and Generator is a web app for corporate users and finance teams who need to work with SEPA payment files based on ISO 20022 (pain.001.001.03)
+- **Sepa-pain-js**: SEPA PAIN XML Viewer and Generator is a web app for corporate users and finance teams who need to work with SEPA payment files based on ISO 20022 (pain.001.001.03)
   🔗 [Repo: sepa-pain-js](https://github.com/roverbird/sepa-pain-js) 
 - **Payment System Integration**: integration of **SumUp, PayPal, Stripe**, and other payment gateways.  
 
