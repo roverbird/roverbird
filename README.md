@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-💡 With expertise in data science and automation, my projects range from fintec and accounting to natural language processing.
-
-For web development, I work with **Flask and Hugo** and have **DevOps experience** in web app/content deployment, particularly using **Firebase and Google Colab**.
+I work with **Flask and Hugo** and have **DevOps experience** in web app/content deployment, particularly using **Firebase and Google Colab**.
 
 Published researcher and author at Oxford University Press (OUP), Benjamins and Mladinska Knjiga.
 
-## Problems I Solve  
+## My projects  
 
-### **For Publishing Houses & Organizations**  
 - **Digitization & Content Structuring**: IDML, PDF, DOCX parsing and conversion; organizing and managing legacy content for migrations.  
   🔗 [Repo: idml2html-python](https://github.com/roverbird/idml2html-python)  
 - **Web Automation & Static Site Generation**: Optimizing content management workflows and developing tailored dashboards for content managers.  
@@ -18,23 +15,17 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
   🔗 [Repo: nbd-keyword-extractor](https://github.com/roverbird/nbd-keyword-extractor)
   🔗 [Repo: corpus_utils](https://github.com/roverbird/corpus_utils)  
   🔗 [Repo: chatgpt_corpus](https://github.com/roverbird/chatgpt_corpus)
-
-### **For Retail and Accounting**  
 - **UPNQR**: generate payment qrcode for invoices (Slovenia)
   🔗 [Repo: upnqr](https://github.com/roverbird/upnqr)
 - **Sepa-pain-js**: SEPA PAIN XML Viewer and Generator is a web app for corporate users and finance teams who need to work with SEPA payment files based on ISO 20022 (pain.001.001.03)
   🔗 [Repo: sepa-pain-js](https://github.com/roverbird/sepa-pain-js) 
 - **Payment System Integration**: integration of **SumUp, PayPal, Stripe**, and other payment gateways.  
-
-### **For Small Hotels & Short-Term Rentals**  
 - **Custom Booking App**: A cost-effective alternative to PMS systems like Protel and Opera – self-hosted or on my servers.  
 - **Platform Integration**: Sync bookings across **Booking.com, Airbnb, Expedia**, and more to prevent overbookings.  
 - **Crypto Payment Integration**: Accept **cryptocurrency payments** for rentals – worked with [Dtravel](https://github.com/Dtravel)
   🔗 [Repo: dtravel-integration](https://github.com/roverbird/dtravel-integration/)
 - **Cost Savings**: Reduce reliance on expensive PMS providers while ensuring **dedicated technical support**.  
 - **Workflow Optimization**: Get a full evaluation of your PMS workflow with actionable recommendations.  
-
-### **Other**  
 - **Financial & Cryptocurrency Analysis**: Experiments with AI-driven trading models and quantitative finance.  
   🔗 [Repo: numerai-crypto-helper](https://github.com/roverbird/numerai-crypto-helper)
 - **Intuitive Trader Game**: Test your intution on real financial data!
