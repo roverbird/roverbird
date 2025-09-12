@@ -5,7 +5,8 @@ I work with **Flask and Hugo** and have **DevOps experience** in web app/content
 Published researcher and author at Oxford University Press (OUP), Benjamins and Mladinska Knjiga.
 
 ## My projects  
-
+- **Cybersec**: Ethical cybersecurity training material for students, WordPress pentesting
+  🔗 [Repo: cybersec](https://github.com/roverbird/cybersec/)  
 - **Digitization & Content Structuring**: IDML, PDF, DOCX parsing and conversion; organizing and managing legacy content for migrations.  
   🔗 [Repo: idml2html-python](https://github.com/roverbird/idml2html-python)  
 - **Web Automation & Static Site Generation**: Optimizing content management workflows and developing tailored dashboards for content managers.  
