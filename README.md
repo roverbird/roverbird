@@ -49,7 +49,7 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
 
 💼 Available for both consultancy and regular employment.
 
-📩 Get in touch via [email](mailto:a.sotov@yahoo.co.uk) to discuss your project needs!  
+📩 Get in touch via [email](kibervarnost@proton,me) to discuss your project needs!  
 
 ---  
 🇸🇮 **Slovene:** 
