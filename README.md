@@ -31,8 +31,10 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
   🔗 [Repo: numerai-crypto-helper](https://github.com/roverbird/numerai-crypto-helper)
 - **Intuitive Trader Game**: Test your intution on real financial data!
   🔗 [Repo: intuitive-trader-game](https://github.com/roverbird/intuitive-trader-game)
-- **[Kolam.fun](https://kolam.fun)** is a javascript interactive art toy inspired by the South Indian tradition of Kolam **
+- **[Kolam.fun](https://kolam.fun)** is a javascript interactive art toy inspired by the South Indian tradition of Kolam
   🔗 [Repo: kolam-game](https://github.com/roverbird/kolam-game)
+- **Mathematics and data science**. A few repos with time series analysis; a study on [Hurst value](https://github.com/roverbird/hurst-smoothing); playing around with [Negative binomial distribution](https://github.com/roverbird/nbd-estimation) (by Nina Alexeyeva).
+
 
 ### **Skills and Stack**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roverbird&layout=compact&theme=tokyonight)
