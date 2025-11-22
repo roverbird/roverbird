@@ -7,8 +7,9 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
 ## My projects  
 - **Cybersec**: Ethical cybersecurity training material for students, WordPress pentesting
   🔗 [Repo: cybersec](https://github.com/roverbird/cybersec/)  
-- **Digitization & Content Structuring**: IDML, PDF, DOCX parsing and conversion; organizing and managing legacy content for migrations.  
-  🔗 [Repo: idml2html-python](https://github.com/roverbird/idml2html-python)  
+- **Digitization & Content Structuring**: IDML, PDF, DOCX parsing and conversion; organizing and managing legacy content for migrations; Generative Engine Optimization for Hugo Static Site Generator
+  🔗 [Repo: idml2html-python](https://github.com/roverbird/idml2html-python)
+  🔗 [Repo: llms-hugo](https://github.com/roverbird/llms-hugo)
 - **Web Automation & Static Site Generation**: Optimizing content management workflows and developing tailored dashboards for content managers.  
   🔗 [Repo: superdash](https://github.com/roverbird/superdash)  
 - **Automation for Data Extraction & Processing**: Google Sheets API, BigQuery, and classification models in Python.  
