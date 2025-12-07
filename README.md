@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work with **Flask and Hugo** and have **DevOps experience** in web app/content deployment, particularly using **Firebase and Google Colab**.
+I work with **Flask and Hugo** and have **DevOps experience** in deployments, particularly using **Firebase and Google Colab**.
 
 Published researcher and author at Oxford University Press (OUP), Benjamins and Mladinska Knjiga.
 
