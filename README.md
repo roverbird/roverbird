@@ -44,21 +44,4 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
 
 **Summary:** I am interested in cyber security, data science, automation, and DevOps. I am comfortable with server-side development and back-end in python, but I also do front-end UI/UX work. For web, I prefer Bulma CSS, static generators, and vanilla js (simple setups from CDN). With my FreeBSD, Linux and Nginx experience I have knowledge of deployment and server management, and my R skills indicate involvement in data-driven tasks.
 
-## Business Model  
-
-✅ I have worked with **international consultancies and large organizations**, often as the sole point of contact responsible for managing and improving their online presence.  
-
-✅ Based in Slovenia and operate as a **subcontractor**, providing specialized services through an **EU-based firm** 🇪🇺. You can hire me for your project, with payment handled through an EU company—ensuring **flexibility, compliance, and clear contractual terms**.  
-
-💼 Available for both consultancy and regular employment.
-
 📩 Get in touch via [email](mailto:kibervarnost@proton,me) to discuss your project needs!  
-
----  
-🇸🇮 **Slovene:** 
-
-Poleg dela v mednarodnem okolju sodelujem z naročniki iz Slovenije. Nudim storitve s področja avtomatizacije procesov za gostinstvo, obdelave podatkov in razvoja spletnih rešitev. Če potrebujete optimizacijo delovnih procesov, digitalizacijo vsebin ali integracijo plačilnih sistemov, me kontaktirajte in skupaj bomo našli ustrezno rešitev.  
-
----  
-🇷🇺 **Russian:**  
-Pаботаю с международными клиентами и заинтересован в сотрудничестве с компаниями в РФ. Специализируюсь на автоматизации процессов, обработке данных, NLP и веб-разработке. Если вам нужна оптимизация рабочих процессов, анализ данных или интеграция платежных систем, свяжитесь со мной – найдем эффективное решение! 🚀 
