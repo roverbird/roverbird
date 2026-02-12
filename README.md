@@ -19,8 +19,8 @@ Published researcher and author at Oxford University Press (OUP), Benjamins and 
   🔗 [Repo: chatgpt_corpus](https://github.com/roverbird/chatgpt_corpus)
 - **UPNQR**: generate payment qrcode for invoices (Slovenia)
   🔗 [Repo: upnqr](https://github.com/roverbird/upnqr)
-- **Sepa-pain-js**: SEPA PAIN XML Viewer and Generator is a web app for corporate users and finance teams who need to work with SEPA payment files based on ISO 20022 (pain.001.001.03)
-  🔗 [Repo: sepa-pain-js](https://github.com/roverbird/sepa-pain-js) 
+- **eu-invoice-tools**: SEPA PAIN XML Viewer, Peppol viewer, UBL viewer, CAMT.053 viewer and other tools for EU e-invoicing
+  🔗 [Repo: eu-invoice-tools](https://github.com/roverbird/eu-invoice-tools) 
 - **Payment System Integration**: integration of **SumUp, PayPal, Stripe**, and other payment gateways.  
 - **Custom Booking App**: A cost-effective alternative to PMS systems like Protel and Opera – self-hosted or on my servers.  
 - **Platform Integration**: Sync bookings across **Booking.com, Airbnb, Expedia**, and more to prevent overbookings.  
