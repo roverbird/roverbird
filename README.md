@@ -6,7 +6,7 @@
   🔗 [Repo: llms-hugo](https://github.com/roverbird/llms-hugo)
 - **Web Automation & Static Site Generation**: Optimizing content management workflows and developing tailored dashboards for content managers.  
   🔗 [Repo: superdash](https://github.com/roverbird/superdash)  
-- **Corpus Linguistics & NLP**: Semantic analysis, [keyword extraction](https://textvisualization.app/free-online-keyword-extractor/), classification tasks, and [AI-generated content detection](https://textvisualization.app/chatgpt-detector/).
+- **Corpus Linguistics & NLP**: Semantic analysis, classification tasks, and AI-generated content detection
   🔗 [Repo: nbd-keyword-extractor](https://github.com/roverbird/nbd-keyword-extractor)
   🔗 [Repo: corpus_utils](https://github.com/roverbird/corpus_utils)  
   🔗 [Repo: chatgpt_corpus](https://github.com/roverbird/chatgpt_corpus)
@@ -28,4 +28,4 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,javascript,r,flask,html,css,git,linux,debian,bsd,bash,vim,nginx,firebase)
 
-📩 Get in touch via [email](mailto:kibervarnost@proton,me) to discuss your project needs!  
+Get in touch via [email](mailto:kibervarnost@proton,me) to discuss your project needs!  
