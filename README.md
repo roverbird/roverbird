@@ -1,5 +1,8 @@
 ## Projects  
-- **Cybersec**: Ethical cybersecurity training material for students, WordPress pentesting
+- **Cybersec and AI Agents Safety**:
+  Agent CLI Extensions for _AI Agent safety_ provides guidelines for command-line interfaces (CLI) that can be securely and efficiently used by AI agents
+  🔗 [Repo: agent-cli-extensions](https://github.com/roverbird/agent-cli-extensions/)  
+  Ethical cybersecurity training material for students, WordPress pentesting
   🔗 [Repo: cybersec](https://github.com/roverbird/cybersec/)  
 - **Digitization & Content Structuring**: IDML, PDF, DOCX parsing and conversion; organizing and managing legacy content for migrations; Generative Engine Optimization for Hugo Static Site Generator
   🔗 [Repo: idml2html-python](https://github.com/roverbird/idml2html-python)
