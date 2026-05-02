@@ -27,8 +27,6 @@
 - **Mathematics and data science**. A few repos with time series analysis; a study on [Hurst value](https://github.com/roverbird/hurst-smoothing); research on [Negative binomial distribution](https://github.com/roverbird/nbd-estimation) (by Nina Alexeyeva).
 
 ### **Skills and Stack**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roverbird&layout=compact&theme=tokyonight)
-
 ![Tech Stack](https://skillicons.dev/icons?i=python,javascript,r,flask,html,css,git,linux,debian,bsd,bash,vim,nginx,firebase)
 
 Get in touch via [email](mailto:kibervarnost@proton,me) to discuss your project needs!  
