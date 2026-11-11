@@ -1,10 +1,8 @@
-## suckless-mcp
-Transforms agentic CLI scripts into Model Context Protocol tools via a lightweight gateway, one RUST binary to expose your tools as a remote MCP server
-🔗 [Repo: suckless-mcp](https://github.com/roverbird/suckless-mcp/)  
 
----
-
-## Projects  
+## Projects
+- **Rust MCP server**:
+ Transforms agentic CLI scripts into Model Context Protocol tools via a lightweight gateway, one RUST binary to expose your tools as a remote MCP server
+  🔗 [Repo: suckless-mcp](https://github.com/roverbird/suckless-mcp/)  
 - **Cybersec and AI Agents Safety**:
   Agent CLI Extensions for _AI Agent safety_ provides guidelines for command-line interfaces (CLI) that can be securely and efficiently used by AI agents
   🔗 [Repo: agent-cli-extensions](https://github.com/roverbird/agent-cli-extensions/)  
